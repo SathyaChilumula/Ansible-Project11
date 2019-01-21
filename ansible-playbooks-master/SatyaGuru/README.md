@@ -1,6 +1,6 @@
 ###Variables
 ```
-#DigitalOcean
+#SatyaGuru
 digitalocean_api_token :
 droplet_size : 512mb
 droplet_os : ubuntu-14-04-x64
