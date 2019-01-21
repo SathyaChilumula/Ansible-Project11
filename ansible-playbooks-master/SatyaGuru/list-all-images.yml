@@ -1,5 +1,5 @@
 #
-#About: This will get list of all images based distribution on DigitalOcean
+#About: This will get list of all images based distribution on SathyaGuru
 #
 ---
 - hosts: localhost
