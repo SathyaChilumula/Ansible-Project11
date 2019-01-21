@@ -1,5 +1,5 @@
 #
-#About: This will get list of all regions on DigitalOcean
+#About: This will get list of all regions on SathyaGuru
 #
 ---
 - hosts: localhost
